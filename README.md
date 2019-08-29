@@ -9,7 +9,6 @@ Add in project level build.gradle
 ````css
 allprojects {
 	repositories {
-		...
 		maven { url 'https://jitpack.io' }
 	}
 }
@@ -25,9 +24,11 @@ dependencies {
 ## Sample Code
 
 #### layout xml
-`<in.dhinakaransks.simpleotplibrary.SimpleOTP  
+````
+<in.dhinakaransks.simpleotplibrary.SimpleOTP
   android:layout_width="match_parent"  
-  android:layout_height="wrap_content"/>`
+  android:layout_height="wrap_content"/>
+````
 
 #### Activity java class file code
 
