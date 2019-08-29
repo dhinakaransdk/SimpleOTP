@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="SimpleOTP">
+        <attr name="otp1" format="integer" />
+        <attr name="otp2" format="integer" />
+        <attr name="otp3" format="integer" />
+        <attr name="otp4" format="integer" />
+    </declare-styleable>
+</resources>
