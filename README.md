@@ -8,18 +8,18 @@ Create OTP Screen Simply using SimpleOTP Library
 Add in project level build.gradle
 ````css
 allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
-		}
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
 	}
+}
 ````
 
 Add to application level build.gradle
 ````css
 dependencies {
-	        implementation 'com.github.dhinakaransdk:SimpleOTP:0.1'
-	}
+	implementation 'com.github.dhinakaransdk:SimpleOTP:0.1'
+}
 ````
 
 ## Sample Code
@@ -40,4 +40,5 @@ dependencies {
 
 ## Screenshot
 
-![](screenshots/screenshot.png)
+<img src="./screenshots/screenshot.png" width="250" height="400">
+
