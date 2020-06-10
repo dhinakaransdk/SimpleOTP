@@ -41,5 +41,5 @@ dependencies {
 
 ## Screenshot
 
-<img src="./screenshots/screenshot.png" width="250" height="400">
+<img src="./screenshot/screenshot.png" width="250" height="400">
 
