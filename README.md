@@ -17,7 +17,7 @@ allprojects {
 Add to application level build.gradle
 ````css
 dependencies {
-	implementation 'com.github.dhinakaransdk:SimpleOTP:0.1'
+	implementation 'com.github.dhinakaransdk:SimpleOTP:1.0'
 }
 ````
 
