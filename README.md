@@ -25,7 +25,7 @@ dependencies {
 
 #### layout xml
 ````
-<in.dhinakaransks.simpleotplibrary.SimpleOTP
+<in.dhinakaran.simpleotplibrary.SimpleOTP
   android:layout_width="match_parent"  
   android:layout_height="wrap_content"/>
 ````
