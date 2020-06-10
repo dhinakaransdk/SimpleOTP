@@ -1,4 +1,4 @@
-package in.dhinakaransks.simpleotplibrary;
+package in.dhinakaran.simpleotp;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("in.dhinakaransks.simpleotplibrary.test", appContext.getPackageName());
+        assertEquals("in.dhinakaransks.simpleotp", appContext.getPackageName());
     }
 }

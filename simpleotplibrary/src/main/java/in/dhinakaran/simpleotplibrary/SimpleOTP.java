@@ -1,4 +1,4 @@
-package in.dhinakaransks.simpleotplibrary;
+package in.dhinakaran.simpleotplibrary;
 
 import android.content.Context;
 import android.content.res.TypedArray;

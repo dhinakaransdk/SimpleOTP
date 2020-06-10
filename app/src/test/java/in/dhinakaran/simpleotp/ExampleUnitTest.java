@@ -1,4 +1,4 @@
-package in.dhinakaransks.simpleotplibrary;
+package in.dhinakaran.simpleotp;
 
 import org.junit.Test;
 

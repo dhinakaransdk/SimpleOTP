@@ -1,4 +1,4 @@
-package in.dhinakaransks.simpleotp;
+package in.dhinakaran.simpleotp;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import in.dhinakaransks.simpleotplibrary.SimpleOTP;
+import in.dhinakaran.simpleotplibrary.SimpleOTP;
 
 public class MainActivity extends AppCompatActivity {
 
